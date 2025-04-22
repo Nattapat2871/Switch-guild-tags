@@ -4,7 +4,6 @@ import time
 import os
 from alive import server_on
 
-
 TOKEN = os.getenv("TOKEN")
 # หรือ TOKEN = ("YOUR DISCORD TOKEN")
 SWITCH_INTERVAL = 3  # 3 วินาทีแล้วเปลี่ยน
