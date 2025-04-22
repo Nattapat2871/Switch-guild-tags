@@ -6,7 +6,7 @@ from alive import server_on
 
 # ใส่ User Token ที่ได้จาก DevTools
 TOKEN = os.getenv("YOUR DISCORD TOKEN")
-SWITCH_INTERVAL = 5  # 5 วินาทีแล้วเปลี่ยน
+SWITCH_INTERVAL = 3  # 3 วินาทีแล้วเปลี่ยน
 
 # กิลด์ที่มี Server Tag
 GUILDS = [
