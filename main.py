@@ -4,9 +4,10 @@ import time
 import os
 from alive import server_on
 
-# ใส่ User Token ที่ได้จาก DevTools
-TOKEN = os.getenv("YOUR DISCORD TOKEN")
-SWITCH_INTERVAL = 5  # 5 วินาทีแล้วเปลี่ยน
+
+TOKEN = os.getenv("TOKEN")
+# หรือ TOKEN = ("YOUR DISCORD TOKEN")
+SWITCH_INTERVAL = 3  # 3 วินาทีแล้วเปลี่ยน
 
 # กิลด์ที่มี Server Tag
 GUILDS = [
@@ -25,7 +26,9 @@ GUILDS = [
     {"name": "dual", "id": "476454574715174912"},
     {"name": "gca", "id": "223070469148901376"},
     {"name": "valc", "id": "1350807682520711199"},
-    {"name": "soul", "id": "786437953299021844"}
+    {"name": "soul", "id": "786437953299021844"}, #new tag
+    {"name": "rawr", "id": "804032421678153819"},
+    {"name": "moco", "id": "1151156552888238183"},
 ]
 
 HEADERS = {
