@@ -13,4 +13,4 @@ https://discord.gg/tRUgfmYRtK
 i host script on https://render.com and https://cron-job.org
 ![Preview Switch Guild Tag](asset/preview-Switch-guild-tag.gif)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nattapat2871.Switch-guild-tags1&left_text=👁️%20Visitor&left_color=555555&right_color=007ACC&left_text_color=white&right_text_color=white)
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=Nattapat2871&repo=Switch-guild-tags&countColor=%237B1E7A&style=flat-square&style=flat-square)
