@@ -1,4 +1,5 @@
 ﻿# Switch-guild-tags
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=Nattapat2871&repo=Switch-guild-tags&countColor=%237B1E7A&style=flat-square)
 
 This is the code to switch guild tags and you have to join those guild tags too.
 
@@ -13,4 +14,3 @@ https://discord.gg/tRUgfmYRtK
 i host script on https://render.com and https://cron-job.org
 ![Preview Switch Guild Tag](asset/preview-Switch-guild-tag.gif)
 
-![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=Nattapat2871&repo=Switch-guild-tags&countColor=%237B1E7A&style=flat-square&style=flat-square)
